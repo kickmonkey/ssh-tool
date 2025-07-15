@@ -1,0 +1,7 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.py[cod]
+.venv/
+flake8.log
+.ssh_key
+ssh_connections.db
